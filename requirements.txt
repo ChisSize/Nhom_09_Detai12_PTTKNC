@@ -1,8 +1,10 @@
 pandas
 numpy
+scipy
 matplotlib
 seaborn
 scikit-learn
 statsmodels
+pingouin
 openpyxl
 jupyter
